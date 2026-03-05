@@ -7,4 +7,6 @@ Class User {
 	int c= 30; 
 	
 	String name= "java";
+	
+	int i= 100;
 }
