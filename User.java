@@ -4,4 +4,5 @@ Class User {
 	
 	int b= 20;
 	
+	String name= "java";
 }
