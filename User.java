@@ -1,4 +1,8 @@
 Class User {
+	// jira 102
+	void m2(){
+		// logic
+	}
 	
 	int a= 10;
 	
